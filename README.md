@@ -3,7 +3,7 @@
 # SuperSorting
 
 
-<img src="https://github.com/StxGuy/SanitizedStatistics/blob/main/logo/ssorting.png" width="256" height="256">
+<img src="https://github.com/StxGuy/SuperSorting/blob/main/logo/ssorting.png" width="256" height="256">
 
 ## About
 
