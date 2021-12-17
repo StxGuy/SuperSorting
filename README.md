@@ -7,7 +7,7 @@
 
 ## About
 
-Collection of statistical procedures in Fortran
+Collection of sorting procedures in Fortran
     
 [![Generic badge](https://img.shields.io/badge/GitHub-StxGuy/SuperSorting-<COLOR>.svg)](https://github.com/StxGuy/SuperSorting)
 
